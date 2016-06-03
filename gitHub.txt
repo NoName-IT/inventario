@@ -55,8 +55,12 @@ ctl+shift+p
 	git add remote 
 		origin
 			https://rickyolery:lvdlmv1983@github.com/NoName-IT/inventario.git
-		
+
 	git push
 		master (nombre del Branch)
+		
+	Cuando haces cambios hay que hacer un commit y "comentar algo" 
+	Luego cerras el archivo 
+	y para subir todo a la Web debes hacer un git push
 
 
